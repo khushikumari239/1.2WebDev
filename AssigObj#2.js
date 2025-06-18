@@ -8,7 +8,7 @@ function greet(user) {
         title= " Mx ";
     }
 
-    console .log (" hello " + title + user.name + " your age is "+ user.age);
+    console .log (" hello " + title  + user.name + " your age is "+ user.age);
 }
 
 
